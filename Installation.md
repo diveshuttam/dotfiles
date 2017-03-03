@@ -11,6 +11,7 @@ git clone https://github.com/gmarik/vundle .vim/bundle/vundle
 vim +VundleInstall +qall  
   
   
-the steps might change refer to vundle repo for more detail
+the steps might change refer to vundle repo for more detail  
 vim +PluginList gives the list of plugins  
-the list of plugins is stored in ~ .vim/vimrc/Plugins.vim Edit it to choose pluginss to install
+the list of plugins is stored in ~ .vim/vimrc/Plugins.vim  
+Edit it to choose plugins to install
